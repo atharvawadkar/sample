@@ -1,3 +1,3 @@
 # sample
 this is for learning pupose.
-i updated it
+I updated it
